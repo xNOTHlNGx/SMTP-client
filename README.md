@@ -49,7 +49,7 @@ Here are simple instructions for building the dotnet code with CLI tools.
 3. Go into project folder and build script
    ```sh
    cd SMTP-client
-   dotnet build -r win-x64 -p:PublishSingleFile=true --self-contained false
+   dotnet build -r win-x64 -p:PublishSingleFile=true --self-contained true
    ```
 ## License
 
