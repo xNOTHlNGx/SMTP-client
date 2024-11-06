@@ -23,7 +23,7 @@ Simple GUI utility to send emails via SMTP server
 This is simple script written in dotnet (C#) with WPF (Windows-only user interface framework)
 ### Prerequisites
 
-To run or build this project, you need to install some prerequisites. For most situations, just look at the [Official Microsoft Installation Guide] (https://learn.microsoft.com/en-us/dotnet/core/install/). This is the most appropriate guide for most users. However, if you want to install dotnet using the CLI tools, you can use these simple commands:
+To run or build this project, you need to install some prerequisites. For most situations, just look at the [Official Microsoft Installation Guide](https://learn.microsoft.com/en-us/dotnet/core/install/). This is the most appropriate guide for most users. However, if you want to install dotnet using the CLI tools, you can use these simple commands:
 
 - Windows
   ```sh
