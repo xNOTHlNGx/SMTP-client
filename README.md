@@ -11,14 +11,14 @@ Simple GUI utility to send emails via SMTP server
 <br/>
 <br/>
   
-<a href="https://github.com/xNOTHlNGx/SMTP-client/issues/new?labels=bug&template=bug-report---.md">Report Bug .</a>
+<a href="https://github.com/xNOTHlNGx/SMTP-client/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
 
 </p>
 </div>
 
 ## About The Project
 
-![UI screenshot](https://picsum.photos/1920/1080)
+![UI screenshot](assets/screenshot.png)
 
 This is simple script written in dotnet (C#) with WPF (Windows-only user interface framework)
 ### Prerequisites
