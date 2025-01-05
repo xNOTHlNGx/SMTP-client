@@ -1,7 +1,7 @@
 
 <br/>
 <div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
+<a href="https://github.com/xNOTHlNGx/SMTP-client">
 <img src="https://flowmattic.com/wp-content/uploads/2023/06/icon-email.svg'" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">SMTP client</h3>
