@@ -53,7 +53,7 @@ Here are simple instructions for building the dotnet code with CLI tools.
    ```
 ## License
 
-Distributed under the GPL License. See [GPL License](https://www.gnu.org/licenses/gpl-3.0.html) for more information.
+Distributed under the DFC License. See [DFC License](https://raw.githubusercontent.com/xNOTHlNGx/DFC-license/refs/heads/main/LICENSE) for more information.
 
 ## Contact
 
